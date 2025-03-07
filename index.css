@@ -1,23 +1,35 @@
 .box1{
     display: inline-block;
     background-color: bisque;
-    margin:20px 40px  20px 40px;
-    padding: 25px 30px;
+    /* margin:20px 40px  20px 40px; */
+    margin-left :20px;
+    margin-top: 20px;
+    padding: 150px 250px;
+    position: relative;
 }
 .box2{
     background-color: brown;
-    margin:15px 20px 15px 20px;
-    padding:30px 40px;
+    /* margin:15px 20px 15px 20px; */
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    padding:100px 200px;
 }
 .box3{
      background-color: blanchedalmond;
-     margin:10px 15px 10px 15px;
-     padding:25px 30px;
+     /* margin:10px 15px 10px 15px; */
+     position: absolute;
+     padding:50px 100px;
+     top:50px;
+     left:100px;
 }
 .box4{
     background-color: indianred;
-    margin:20px 15px 20px 15px;
-    padding: 30px 50px;
+    /* margin:20px 15px 20px 15px; */
+    position: absolute;
+    padding: 25px 50px;
+    top:25px;
+    left:50px;
 }
 
 
