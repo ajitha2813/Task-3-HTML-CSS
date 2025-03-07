@@ -1,21 +1,23 @@
 .box1{
+    display: inline-block;
     background-color: bisque;
-    margin:80px;
-    padding: 40px;
+    margin:20px 40px  20px 40px;
+    padding: 25px 30px;
 }
 .box2{
     background-color: brown;
-    margin:15px;
-    padding:50px;
+    margin:15px 20px 15px 20px;
+    padding:30px 40px;
 }
 .box3{
      background-color: blanchedalmond;
-     margin:10px;
-     padding:40px;
+     margin:10px 15px 10px 15px;
+     padding:25px 30px;
 }
 .box4{
     background-color: indianred;
-    margin:15px;
-    padding: 45px;
+    margin:20px 15px 20px 15px;
+    padding: 30px 50px;
 }
+
 
