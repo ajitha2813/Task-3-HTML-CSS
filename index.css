@@ -32,4 +32,29 @@
     left:50px;
 }
 
+#identity{
+    color :brown
+}
+.division{
+color:darkgreen
+}
+.division{
+    color: darkred!important;
+}
 
+@media screen and (max-width:530px) {
+    .box1{
+ margin-left:20px;
+        padding: 150px 200px;
+    }
+    .box2{
+        padding:100px 150px;
+    }
+    .box3{
+        padding:50px 50px;
+    }
+    .box4{
+        padding: 25px 25px;
+        left:25px;
+    }
+}
